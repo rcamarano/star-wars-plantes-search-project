@@ -24,10 +24,10 @@ Obrigado por sua visita.!
 
 ## Tecnologias
 
+- [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [MySQL](https://www.mysql.com/)
-
 
 ## Instalação
 
