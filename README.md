@@ -2,8 +2,6 @@
 
 >>> "Esse projeto consiste em criar uma aplicação que consuma a API do Star Wars e exiba os dados de forma organizada. ALém disso deve ser possível filtrar os planetas por suas características como: nome, clima, terreno, dimensão e população. Um projeto que visa aprimorar os conhecimentos em React e Redux."
 >>> Um projeto muito interessante e divertido de montar. Durante a execução pude desenvolver mais minhas habilidades de gestão do tempo, inteligência emocional, pensamento crítico e controle de ansiedade.
->>> Além, é claro de praticar mais um pocuo os conhecimentos em estrutura de dados relacionais e executar os passos que o projeto precisava. Modelagem de tabelas, validação de token de acesso, criaão de dados nas tabelas do DB, bem como a interação entre esses dados para gerar os resultados finais das tabelas. Tudo isso utliziando Javascript como linguagem principal e utilizando a estrutura MSC (Model, Service, Controller) na criação e manipulação do banco de dados.
-
 
 >>> A partir de agora esse repositório fica disponível publicamente e estou aberto a sugestões e colaborações futuras.
 Obrigado por sua visita.!
